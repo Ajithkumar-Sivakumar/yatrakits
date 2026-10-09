@@ -154,6 +154,6 @@ Use this list for each release; items are not pre-marked as passed.
 
 ## License and content
 
-Website source code is offered under the MIT License in `LICENSE`. The license does not grant reuse rights for product photos, business content, logos or brand assets; obtain permission from their owners.
+Website source code is offered under the MIT License in `LICENSE`. The license does not grant reuse rights for product photos, business content, logos or brand assets; obtain permission from their owners
 
 python3 -m http.server 8000
